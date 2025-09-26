@@ -14,3 +14,8 @@ Lessons Learned:
 + Anlegen GitREPO mit gitignore und readme
 + Basic Workflow git <-> GitHub
 
+
+
+     Aenderungen durchgefuehrt
+
+  
