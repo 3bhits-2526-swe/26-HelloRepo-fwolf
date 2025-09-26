@@ -5,6 +5,8 @@ https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet
 Kurze Beschreibung des Projektes:
 Einführung in GitHub und git
 
+Einmal geklont und wieder mit neuen Daten pushen
+
 Entwicklungsplattform: Win11
 
 Lessons Learned:
