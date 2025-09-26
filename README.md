@@ -6,6 +6,7 @@ Kurze Beschreibung des Projektes:
 Einführung in GitHub und git
 
 Einmal geklont und wieder mit neuen Daten pushen
+Jetzt möchte ich die Online-Änderung auch lokal haben -> Pull
 
 Entwicklungsplattform: Win11
 
